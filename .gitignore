@@ -2,3 +2,38 @@ biochar images
 Biochar measure
 images
 labels
+__pycache__
+.trunk
+Biochar measure
+char
+container
+distorted
+empty
+Empty Kon tiki
+end_product_images
+new images
+send
+text
+char_estimate.h5
+decoder.h5
+encoder.h5
+head.h5
+segmentation.h5
+segmentation_copy.h5
+segmentation1.h5
+empty.json
+labels.json
+labels_.json
+new_labels.json
+sample.json
+BioChar_Segmentation (1).ipynb
+BioChar_Segmentation.ipynb
+blob_estimate.py
+calculate_vol_surya.py
+calculate_volume.py
+canny_edge.py
+del.py estimate
+ellipse.py
+make_images.py
+scikit_approach.py
+resgression.py
